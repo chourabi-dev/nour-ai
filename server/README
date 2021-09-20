@@ -1,0 +1,12 @@
+1 - Inesert vehicule
+    method : POST
+    body :  "marque":"BMW",
+            "model":"E46",
+            "pf":7,
+            "color":"red",
+            "registrationPlate":"200TN205",
+            "cinOwner":"123456",
+            "fullnameOwner":"customer name"
+    URL : /api/vehicules/add
+
+2 - 
